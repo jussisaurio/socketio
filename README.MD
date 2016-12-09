@@ -1,0 +1,1 @@
+plain socket.io template
